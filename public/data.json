@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "name": "Laptop",
+      "price": 799.99,
+      "availability": true,
+      "src": "images/laptop.jpg",
+      "category": "Electronics"
+    },
+    {
+      "name": "T-Shirt",
+      "price": 19.99,
+      "availability": true,
+      "src": "images/tshirt.jpg",
+      "category": "Clothing"
+    },
+    {
+      "name": "Blender",
+      "price": 89.99,
+      "availability": true,
+      "src": "images/blender.jpg",
+      "category": "Appliances"
+    },
+    {
+      "name": "Tool Set",
+      "price": 49.99,
+      "availability": true,
+      "src": "images/tool_set.jpg",
+      "category": "Tools"
+    },
+    {
+      "name": "Running Shoes",
+      "price": 129.99,
+      "availability": true,
+      "src": "images/running_shoes.jpg",
+      "category": "Footwear"
+    },
+    {
+      "name": "Dress",
+      "price": 39.99,
+      "availability": true,
+      "src": "images/dress.jpg",
+      "category": "Clothing"
+    },
+    {
+      "name": "Coffee Maker",
+      "price": 59.99,
+      "availability": true,
+      "src": "images/coffee_maker.jpg",
+      "category": "Appliances"
+    },
+    {
+      "name": "Drill",
+      "price": 79.99,
+      "availability": true,
+      "src": "images/drill.jpg",
+      "category": "Tools"
+    },
+    {
+      "name": "Backpack",
+      "price": 49.99,
+      "availability": true,
+      "src": "images/backpack.jpg",
+      "category": "Accessories"
+    },
+    {
+      "name": "Microwave",
+      "price": 129.99,
+      "availability": true,
+      "src": "images/microwave.jpg",
+      "category": "Appliances"
+    },
+    {
+      "name": "Jeans",
+      "price": 29.99,
+      "availability": true,
+      "src": "images/jeans.jpg",
+      "category": "Clothing"
+    },
+    {
+      "name": "Desk Chair",
+      "price": 149.99,
+      "availability": false,
+      "src": "images/desk_chair.jpg",
+      "category": "Furniture"
+    },
+    {
+      "name": "Toaster",
+      "price": 39.99,
+      "availability": true,
+      "src": "images/toaster.jpg",
+      "category": "Appliances"
+    },
+    {
+      "name": "Hiking Boots",
+      "price": 79.99,
+      "availability": true,
+      "src": "images/hiking_boots.jpg",
+      "category": "Footwear"
+    },
+    {
+      "name": "Smart Watch",
+      "price": 199.99,
+      "availability": true,
+      "src": "images/smart_watch.jpg",
+      "category": "Electronics"
+    },
+    {
+      "name": "Iron",
+      "price": 34.99,
+      "availability": true,
+      "src": "images/iron.jpg",
+      "category": "Appliances"
+    },
+    {
+      "name": "Toolbox",
+      "price": 59.99,
+      "availability": true,
+      "src": "images/toolbox.jpg",
+      "category": "Tools"
+    },
+    {
+      "name": "Sweater",
+      "price": 44.99,
+      "availability": true,
+      "src": "images/sweater.jpg",
+      "category": "Clothing"
+    },
+    {
+      "name": "Portable Speaker",
+      "price": 79.99,
+      "availability": true,
+      "src": "images/portable_speaker.jpg",
+      "category": "Electronics"
+    },
+    {
+      "name": "Kettle",
+      "price": 29.99,
+      "availability": true,
+      "src": "images/kettle.jpg",
+      "category": "Appliances"
+    },
+    {
+      "name": "Wrench Set",
+      "price": 29.99,
+      "availability": true,
+      "src": "images/wrench_set.jpg",
+      "category": "Tools"
+    },
+    {
+      "name": "Winter Jacket",
+      "price": 89.99,
+      "availability": true,
+      "src": "images/winter_jacket.jpg",
+      "category": "Clothing"
+    },
+    {
+      "name": "Rice Cooker",
+      "price": 49.99,
+      "availability": true,
+      "src": "images/rice_cooker.jpg",
+      "category": "Appliances"
+    },
+    {
+      "name": "Sunglasses",
+      "price": 19.99,
+      "availability": true,
+      "src": "images/sunglasses.jpg",
+      "category": "Accessories"
+    }
+  ]
+}

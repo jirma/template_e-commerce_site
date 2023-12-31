@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce site</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main>
+
+      <div class="welcome-container">
+        <h1 class="welcome-title">E-commerce Website</h1>
+
+        <div id="searchContainer" class="search-container">        
+          <input id="input" placeholder="Enter Article" type="search">
+        </div>
+
+        <div id="categoriesContainer" class="categories-container">
+        </div>
+        
+        <div class="range_container">
+          <div class="sliders_control">
+              <input id="fromSlider" type="range" value="10" min="0" max="100"/>
+              <input id="toSlider" type="range" value="40" min="0" max="100"/>
+          </div>
+          <div class="form_control">
+              <div class="form_control_container">
+                  <div class="form_control_container__time">Min</div>
+                  <input class="form_control_container__time__input" type="number" id="fromInput" value="10" min="0" max="100"/>
+              </div>
+              <!--
+                <div class="form_control_container">
+                  <div class="form_control_container__time">Max</div>
+                  <input class="form_control_container__time__input" type="number" id="toInput" value="40" min="0" max="100"/>
+              </div>
+            -->
+          </div>
+      </div>
+
+      </div>
+
+      <!-- Tout les articles seront afficher ici-->
+      <div class = "article-container">    
+
+        <div class="article">
+          <img src="" alt="Product Image">
+          <h2></h2>
+          <p></p>
+          <p></p>
+        </div>
+
+                
+      </div>
+
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
